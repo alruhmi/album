@@ -1,0 +1,13 @@
+{
+  "autoload": {
+    "classmap": [
+      "./"
+    ],
+    "files": [
+      "core/helperFunctions.php"
+    ]
+  },
+  "require": {
+    "ext-json": "*"
+  }
+}
